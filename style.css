@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Palanquin&display=swap');
+
+* {
+    padding:0;
+    margin:0;
+}
+
+nav {
+    background-color: rgb(0, 119, 255);
+    text-align: center;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+}
+
+.title {
+    font-size: 32px;
+    font-family: 'Palanquin', sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+.main {
+    text-align: center;
+    padding: 80px;
+}
+
+html, body, p {
+    font-family: 'Palanquin', sans-serif;
+}
+
+#meaning {
+    color: green;
+    font-size: 40px;
+}
+
+#search-input {
+    font-size: 40px;
+    text-align: center;
+}
+
+p {
+    font-size: 40px;
+}
+
+.menu {
+    position: relative;
+    float: right;
+    padding: 5px;
+    top: -50px;
+}
+nav a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.menu a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 22px; 
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+nav .menu a:hover {
+    text-decoration: underline;
+}
+
+@media (max-width: 768px) {
+    .title {
+        font-size: 20px;
+        text-align: center;
+        
+    }
+    .menu a {
+        font-size: 16px;
+        text-decoration: dotted underline;
+    }
+
+    .menu {
+        top: -15px;
+    }
+    #search-input {
+        font-size: 30px;
+        text-align: center;
+    }
+    .main {
+        padding-right: 20px;
+        padding-left: 20px;
+        padding-top: 50px;
+    }
+
+    #meaning {
+        color: green;
+        font-size: 20px;
+        
+    }
+
+    .kuptimi {
+        margin-top: 12px;
+        line-height: 30px;
+    }
+}

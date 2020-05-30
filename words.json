@@ -1,0 +1,542 @@
+{
+  "Afirmim": {
+    "meaning": "Pohim/Dëshmi."
+  },
+  "Akte": {
+    "meaning": "Vepro/Ndërmerr hapa."
+  },
+  "Altruizmi": {
+    "meaning": "Dëshira e synimi për t'i bërë mirë tjetrit."
+  },
+  "Analitik": {
+    "meaning": "Që përdor metodën e analizës,që mbështetet në analizën."
+  },
+  "Analogji": {
+    "meaning": "Ngjashmëri."
+  },
+  "Anatomia": {
+    "meaning": "Strukturë trupore e një organizmi."
+  },
+  "Apokalips": {
+    "meaning": "Shkatërrim i plotë/P\\u00eabrfundim i botës."
+  },
+  "Arabesku": {
+    "meaning": "Formë e dorëshkrimit artistik."
+  },
+  "Aristokracia": {
+    "meaning": "Shtresa më e lartë e feudalëve."
+  },
+  "Artikulim": {
+    "meaning": "Formulim."
+  },
+  "Aspirata": {
+    "meaning": "Shpresë apo ambicie për të arritur dicka."
+  },
+  "Aspirate": {
+    "meaning": "Synim."
+  },
+  "Autentik": {
+    "meaning": "Unik, origjinal."
+  },
+  "Boheme": {
+    "meaning": "Njerëz që bëjnë ose kanë një stil jo të zakonshëm të jetës. "
+  },
+  "Ciklopike": {
+    "meaning": "Me përmasa të jashtëzakonshme, vigan."
+  },
+  "Cingune": {
+    "meaning": "Dorështrënguar, koprrac."
+  },
+  "Deliri": {
+    "meaning": "Dicka që mashtron duke prodhuar një të gabueshme ose mashtruese përshtypjen e realitetit."
+  },
+  "Demoralizohet": {
+    "meaning": "Zhgënjehet."
+  },
+  "Derivim": {
+    "meaning": "Krijimi i bashkëdyzimeve duke përdor të njejtin material."
+  },
+  "Despot": {
+    "meaning": "Sundues me pushtet absolut."
+  },
+  "Didaktikë": {
+    "meaning": "Pjesë e pedagogjisë që merret me përmbajtjen e me synimet e procesit mësimor, me metodat dhe me format e organizimit të të mësuarit në shkollë."
+  },
+  "Dinamik": {
+    "meaning": "Që i përket ose karakterizohet nga energjia ose veprimi efektiv."
+  },
+  "Dogmë": {
+    "meaning": "Besim/Parim."
+  },
+  "Emancipoj": {
+    "meaning": "E cliroj dikë nga varësia e dikujt a dickaje që nuk e lë të zhvillohet ose të rrisë aftësitë e veta, i jep të drejta të barabarta me të tjerët a të drejtat që i përkasin atij ose asaj."
+  },
+  "Enigmë": {
+    "meaning": "Dicka që është shumë e vështirë për ta kuptuar a për të shpjeguar."
+  },
+  "Entuziazëm": {
+    "meaning": "Ndjenjë e fuqishme gëzimi e kënaqësie shpirtërore, e bashkuar me dëshirën e zjarrtë, me vullnetin për t'iu përveshur një pune a një veprimtarie."
+  },
+  "Epistoral": {
+    "meaning": "Vepër e shkruar e bazuar në dokumente të shkruara."
+  },
+  "Epitet": {
+    "meaning": "Frazë mbiemrore që shpreh një karakteristik."
+  },
+  "Esencial": {
+    "meaning": "Thelbësor/qenësor."
+  },
+  "Estetik ": {
+    "meaning": "Që lidhet ose i përket të bukurës."
+  },
+  "Estetikë": {
+    "meaning": "Shkenca që studion të bukurën në natyrë e në jetën shoqërore, ligjet e përgjithshme të krijimtarisë artistike e të përvetësimit."
+  },
+  "Etimologjia ": {
+    "meaning": "Shkencë që merret me prejardhjen e fjalëve."
+  },
+  "Flegmatik": {
+    "meaning": "I matur, i përmbajtur."
+  },
+  "Fragment": {
+    "meaning": "Pjesë e marrë vecmas prej dickaje, pjesë e një vepre artistike; pjesë e shkëputur a e mbetur nga një tekst."
+  },
+  "Frazeologji": {
+    "meaning": "Mënyra se si fjalët ose frazat janë të renditura kur flasim ose shkruajmë."
+  },
+  "Furi": {
+    "meaning": "Zemërim i egër ose i dhunshëm."
+  },
+  "Gotik": {
+    "meaning": "Stil arkitekturor/Stil i errët në letërsi/Stil muzikor."
+  },
+  "Grotesk": {
+    "meaning": "Mënyrë e paraqitjeve artistike të gjërave reale dhe dukurive, qesharak,i shëmtuar."
+  },
+  "Guvernator": {
+    "meaning": "Zyrtar i lartë i caktuar për të qeverisur."
+  },
+  "Hanxhar": {
+    "meaning": "Thikë e madhe dhe e gjatë, me dy presa e me maje të hollë që përdorej si armë."
+  },
+  "Hermetike": {
+    "meaning": "I padepërtueshëm."
+  },
+  "Hipokrit": {
+    "meaning": "Shtiret kinse është i mirë."
+  },
+  "Human": {
+    "meaning": "Njerëzor."
+  },
+  "Ideal": {
+    "meaning": "Koncepti i perfektes apo më të përshtatshmes."
+  },
+  "Idilik ": {
+    "meaning": "Përshkrim i thjeshtë i të bukurës, ideal."
+  },
+  "Influenca": {
+    "meaning": "Ndikim/Aftësia ose fuqia e personave ose e gjërave për të qenë në forcë detyruese ose të prodhoj efekte në veprimet, sjelljen, etj."
+  },
+  "Injorant": {
+    "meaning": "I/e paditur."
+  },
+  "Instinkt": {
+    "meaning": "Nje impuls natyror ose i lindur."
+  },
+  "Introspektiv": {
+    "meaning": "Me pamje të brendshme, e menduar, e penduar etj."
+  },
+  "Intuita": {
+    "meaning": "Perceptimi i drejtëpërdrejtë i së vërtetës, pa nevojë të arsyes."
+  },
+  "Ironi": {
+    "meaning": "Figurë stilistike me anë të së cilës shkrimtari, duke u dhënë (fjalëve, shprehjeve, etj.) një kuptim të kundërt nga ai që e ka në të vërtetë ose duke bërë që sikur pranon të kundërtën e asaj që mendon."
+  },
+  "Jurisprudencë": {
+    "meaning": "Shkenca e drejtësisë."
+  },
+  "Klerikal": {
+    "meaning": "Që ka të bëjë me klerin, që i përket klerit, apo që është i klerit, Kler është ai që i kryen shërbimet fetare."
+  },
+  "Kloun": {
+    "meaning": "Palaqo."
+  },
+  "Kompleksitet": {
+    "meaning": "Gjendje ose kualitet i/e ndërlikuar."
+  },
+  "Koncept": {
+    "meaning": "Tërësia e pikëpamjeve dhe mendimeve të një njeriu, të një grupi shoqëror a të një klase për një ëështje ose për ndonjë dukuri të ndryshme të jetës shoqërore."
+  },
+  "Konturet": {
+    "meaning": "Format, kornizat."
+  },
+  "Kozmogoni": {
+    "meaning": "Cdo teori që merret me lindjen dhe prejardhjen e botës apo gjithësisë, ose me krijimin e realitetit."
+  },
+  "Krizantemi": {
+    "meaning": "Lule vjeshte e bardhë."
+  },
+  "Kronologji": {
+    "meaning": "Përshkrimi i ngjarjeve dhe renditja e tyre sipas kohës kur kanë ndodhur."
+  },
+  "Lord": {
+    "meaning": "Titull i trashëgueshëm i aristokracisë së lashtë angleze ose titulli i atyre që kryejnë detyra të larta shtetërore."
+  },
+  "Manifest": {
+    "meaning": "Deklaratë me shkrim, me karakter programor me anën e së cilës një parti a një organizatë tjetër politike shpall parimet e qëllimet e veta themelore."
+  },
+  "Meditimi": {
+    "meaning": "Mendimi i vazhduar ose i zgjatur."
+  },
+  "Metafizik": {
+    "meaning": "Që kërkon të zbulojë thelbin më të thellë."
+  },
+  "Metamorfoza": {
+    "meaning": "Ndryshim i rëndësishëm në trajtën e jashtme."
+  },
+  "Misionar": {
+    "meaning": "Ai që ngarkohet me detyrë të posacme për të përhapur një ideologji, një doktrinë, etj."
+  },
+  "Mister": {
+    "meaning": "E panjohur, e fshehtë."
+  },
+  "Mistifikoj": {
+    "meaning": "E paraqet dicka në mënyrë të shtrembër e të rremë dhe në mënyrë misterioze."
+  },
+  "Moderne": {
+    "meaning": "Bashkëkohore."
+  },
+  "Mondane": {
+    "meaning": "Luksoze."
+  },
+  "Monokrome": {
+    "meaning": "Pikturë njëngjyrëshe."
+  },
+  "Monopol": {
+    "meaning": "E drejtë që e ka vetëm dikush (shteti, një sipërmarrje, etj) për të prodhuar dicka, për të treguar një mall ose për të përdorur a shfrytëzuar dicka, pra monopoli është e drejtë a mundësi që e ka vetëm dikush."
+  },
+  "Monoton": {
+    "meaning": "Mungesë e shumëllojëshmërisë."
+  },
+  "Monster": {
+    "meaning": "Përbindësh."
+  },
+  "Nacionale": {
+    "meaning": "Kombëtare."
+  },
+  "Novator": {
+    "meaning": "Ai që paraqet dhe vë në jetë metoda ose ide të reja e përparimtare në fushë të prodhimit, të shkencës, etj."
+  },
+  "Obskuratizëm": {
+    "meaning": "Qëndrim reaksionar mohues, pengues e armiqsor kundër përhapjes së shkencës dhe arsimit."
+  },
+  "Opozicion": {
+    "meaning": "Kundërshtim."
+  },
+  "Pakti": {
+    "meaning": "Marrëveshje ndërmjet dy a më shumë shteteve."
+  },
+  "Palentologji": {
+    "meaning": "Dega e shkencës që merret me studimin e fosileve."
+  },
+  "Panteizëm": {
+    "meaning": "Panteizmi thotë se Zoti  ekziston bashkë me natyrën."
+  },
+  "Pasionant": {
+    "meaning": "Ndjenja të forta/I flaktë/Emocional."
+  },
+  "Patologjike": {
+    "meaning": "Dicka e shkaktuar nga evidentimi i një sëmundjeje."
+  },
+  "Patos": {
+    "meaning": "Gjendje e brendshme e një njeriu që është mbushur me ndjenja të zjarrta."
+  },
+  "Peripeci": {
+    "meaning": "Një ndryshim në fat ose ndryshim i rrethanave."
+  },
+  "Persekutim": {
+    "meaning": "Një fushatë për të shfarosur, dëbuar ose nënshtruar njerëzit bazuar në anëtarësimin e tyre në një grup fetar, etnik, shoqëror ose racor."
+  },
+  "Polarizim": {
+    "meaning": "Ndryshim i drejtimit të lëkundjeve në valën e dritës a në valët elektromagnetike gjatë pasqyrimit dhe përthyerjes ose kur burimi i valëve futet në fushë magnetike."
+  },
+  "Poliglot": {
+    "meaning": "Njeriu që shkruan apo flet shumë gjuhë."
+  },
+  "Polisemi": {
+    "meaning": "Shumëkuptimësi."
+  },
+  "Pragmatik": {
+    "meaning": "Pranon ose mbështetet vetëm në atë që është e dobishme, praktik."
+  },
+  "Prestigj": {
+    "meaning": "Nderim apo një admirim që e ka fituar me punë apo me vepra një njeri, një organizatë, etj."
+  },
+  "Privilegjim": {
+    "meaning": "Një e drejtë, imunitet ose përfitim që gëzon vetëm një person përtej avantazheve të shumicës."
+  },
+  "Prognozë ": {
+    "meaning": "Parashikim."
+  },
+  "Protagonist": {
+    "meaning": "Personazh kryesor i një vepre letrare."
+  },
+  "Prototip": {
+    "meaning": "Origjinalin ose modelin mbi të cilin bazohet ose formohet dicka."
+  },
+  "Pseudofilozof": {
+    "meaning": "Pseudo - i rremë, filozof i rremë."
+  },
+  "Rapsodi": {
+    "meaning": "Shprehje entuziaste apo estetike e ndjenjës."
+  },
+  "Recensat": {
+    "meaning": " Vlerësim kritik me shkrim për një vepër artistike a shkencore."
+  },
+  "Rent": {
+    "meaning": "Qiraja."
+  },
+  "Restaurohen": {
+    "meaning": "Ripunohen/Rindërtohen/Riaftësohen."
+  },
+  "Retorik": {
+    "meaning": "Terma të përsëritur që synojnë të bindin. "
+  },
+  "Retrospektivë": {
+    "meaning": "Vështrim a paraqitje e dukurive, veprave ose ngjarjeve të së kaluarës, kthim në dicka të së kaluarës."
+  },
+  "Revokoj": {
+    "meaning": "Shfuqizoj."
+  },
+  "Revoltë ": {
+    "meaning": "Zemërim që shfaqet kundër dikujt a dickaje."
+  },
+  "Revolucion": {
+    "meaning": "Ndryshim dramatik rrënjësor."
+  },
+  "Sanksionim": {
+    "meaning": "Miratimi i një masë ligjore."
+  },
+  "Sekreti": {
+    "meaning": "E fshehtë."
+  },
+  "Sentimental": {
+    "meaning": "I ndikuar nga ndjenjat."
+  },
+  "Simbol": {
+    "meaning": "Shenjë njohëse."
+  },
+  "Sintezë": {
+    "meaning": "Kombinimi i ideve që formon një sistem."
+  },
+  "Sociale": {
+    "meaning": "Shoqërore."
+  },
+  "Sovran": {
+    "meaning": "I pavarur, pa ndërhyrje të jashtme."
+  },
+  "Spektator": {
+    "meaning": "Shikues."
+  },
+  "Stazhier": {
+    "meaning": "Praktikant/Një person që trajnohet vecanërisht në një profesion. "
+  },
+  "Stoik": {
+    "meaning": "I qëndrueshëm, I palëkundur."
+  },
+  "Sublim": {
+    "meaning": "Dicka e bukur, e plotësuar, e përsosur."
+  },
+  "Tabu": {
+    "meaning": "Ndalim për të bërë dicka a për të folur për dicka, që nuk duhet të shkelet, sepse sipas bestytnive, shkelja e tij ndëshkohet nga fuqitë e mbinatyrshme."
+  },
+  "Temperament": {
+    "meaning": "Term në psikologji që paraqet tërësinë e vetive psikike të njeriut, që shprehin shkallën e ngacmueshmërisë e të gjallërisë dhe që shfaqen në reagimin e shpejtë të tij ndaj të tjerëve."
+  },
+  "Testament": {
+    "meaning": "Dokument që lë dikush para vdekjes."
+  },
+  "Tiran": {
+    "meaning": "Sundimtar që qeveris me dhunë e me të egër dhe që shtyp popullin pa mëshirë."
+  },
+  "Titanik": {
+    "meaning": "Shumë i madh dhe i fuqishëm."
+  },
+  "Uni": {
+    "meaning": "Vetja, vetvetja."
+  },
+  "Utopi": {
+    "meaning": "Parafytyrim ideal i shoqërisë njerëzore ose i një rendi shoqëror të përsosur pa shfrytëzim/ëndërrimi i parealizueshëm."
+  },
+  "Uzurpator": {
+    "meaning": "Pushtues."
+  },
+  "Variacione": {
+    "meaning": "Forma të ndryshme."
+  },
+  "Vigan": {
+    "meaning": "I fortë, i pamposhtur."
+  },
+  "Viktimë": {
+    "meaning": "I/e dëmtuar."
+  },
+  "Virtuoz": {
+    "meaning": "Person shumë i aftë në ndjekje artistike/Gjeni në art."
+  },
+  "Vitalizon": {
+    "meaning": "Jep energji, jep jetë."
+  },
+  "Yrnek": {
+    "meaning": "Model apo mostër."
+  },
+  "Additive": {
+    "meaning": " Mbledhës (akumulues)"
+  },
+  "Amphibia": {
+    "meaning": " Amfibët"
+  },
+  "Andreceumi ": {
+    "meaning": "Thekët"
+  },
+  "Angiosprmeae": {
+    "meaning": "Bimët farëveshura"
+  },
+  "Asterias rubens": {
+    "meaning": "Ylli i kuq"
+  },
+  "Aves": {
+    "meaning": "Shpend"
+  },
+  "Bacillariophyta ": {
+    "meaning": "Algat silikate"
+  },
+  "Bryopsida": {
+    "meaning": "Myshqet e vërteta"
+  },
+  "Cactaceae": {
+    "meaning": "Kaktusi"
+  },
+  "Capsella bursa pastoris": {
+    "meaning": "Trajsa (kutia) e bariut"
+  },
+  "Castenea": {
+    "meaning": "Gështenja"
+  },
+  "Chlorophyta": {
+    "meaning": " Algat e gjelbra"
+  },
+  "Corpus lluteum": {
+    "meaning": "Trupth i verdhë"
+  },
+  "Denticulus": {
+    "meaning": "Dhëmb i vogël"
+  },
+  "Fertilis": {
+    "meaning": " I frytshëm"
+  },
+  "Felis": {
+    "meaning": "Macet"
+  },
+  "Fragaria vesca": {
+    "meaning": "Dredhëza e vogël"
+  },
+  "Genesis": {
+    "meaning": "Prejardhje"
+  },
+  "Gineceumi": {
+    "meaning": "Pistili i lules"
+  },
+  "Imago": {
+    "meaning": "Insekt i rritur"
+  },
+  "In vitro": {
+    "meaning": "Kushte laboratorike"
+  },
+  "Integumentum": {
+    "meaning": "Mbulesë"
+  },
+  "Lync": {
+    "meaning": "Rrëqebujt"
+  },
+  "Mammalia": {
+    "meaning": "Gjitarët"
+  },
+  "Morum": {
+    "meaning": "Frut i manit"
+  },
+  "Mutare": {
+    "meaning": "Ndërrim"
+  },
+  "Nucleus": {
+    "meaning": "Bërthamë"
+  },
+  "Oocid": {
+    "meaning": "Qeliza vezë e pjekur"
+  },
+  "Ovarium": {
+    "meaning": "Vezorja"
+  },
+  "Oviduct": {
+    "meaning": "Vezëpërëuesi"
+  },
+  "Perissodactila": {
+    "meaning": "Kuajt"
+  },
+  "Phaeophyta": {
+    "meaning": "Algat e murrme"
+  },
+  "Pinnipedia": {
+    "meaning": "Fukat"
+  },
+  "Pisces": {
+    "meaning": "Peshqit"
+  },
+  "Pisum sativum": {
+    "meaning": "Bizele e kultivuar"
+  },
+  "Primatia": {
+    "meaning": "Majmunët"
+  },
+  "Regnum": {
+    "meaning": "Mbretëria"
+  },
+  "Replica": {
+    "meaning": "Kopje"
+  },
+  "Reptilia": {
+    "meaning": "Zvarranikët"
+  },
+  "Species": {
+    "meaning": "Lloji"
+  },
+  "Spermatophyta": {
+    "meaning": "Bimët me farë"
+  },
+  "Spongia": {
+    "meaning": "Sfungjerët"
+  },
+  "Sterilis": {
+    "meaning": "Jo i fuqishëm"
+  },
+  "Thatiophyta": {
+    "meaning": "Bimë të ulëta"
+  },
+  "Transalatio": {
+    "meaning": "Përkthim"
+  },
+  "Transcription": {
+    "meaning": "Përshkrim"
+  },
+  "Ville koriale": {
+    "meaning": "Zgjatime në Kornion"
+  },
+  "Vitelin": {
+    "meaning": "Materie rezervë"
+  },
+  "Violla silvestris": {
+    "meaning": "Vjollca e pyllit"
+  },
+  "Ursidae": {
+    "meaning": "Arinjtë"
+  }
+}
